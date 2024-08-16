@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Baikal
+Description=A Baikal Splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes//baikal
+ScriptFile=/usr/share/plymouth/themes//baikal/baikal.script

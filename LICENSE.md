@@ -1,0 +1,3 @@
+Операционная система EasyOneWebOS основана на Arch Linux, является программным обеспечением с открытым исходным кодом и полностью бесплатно. Логотип EasyOneWeb является зарегистрированной торговой маркой ООО "ИзиВанВеб", его использование в личных и коммерческих целях запрещено.
+
+EasyOneWebOS is based on Arch Linux, it's open source and free to use. EasyOneWeb logo is a registered trademark of EasyOneWeb LLC, personal and commercial use of it is prohibited.

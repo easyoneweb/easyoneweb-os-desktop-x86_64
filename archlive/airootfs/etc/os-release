@@ -1,0 +1,12 @@
+NAME="EasyOneWebOS"
+PRETTY_NAME="EasyOneWebOS Desktop - Baikal"
+ID=1.0
+VERSION_ID="Desktop - Baikal"
+BUILD_ID=1.0
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://easyoneweb.ru/"
+DOCUMENTATION_URL="https://easyoneweb.ru/"
+SUPPORT_URL="https://easyoneweb.ru/"
+BUG_REPORT_URL="https://easyoneweb.ru"
+PRIVACY_POLICY_URL="https://easyoneweb.ru"
+LOGO=eow-logo

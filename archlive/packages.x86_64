@@ -1,0 +1,114 @@
+### CORE ###
+arch-install-scripts
+base
+debugedit
+dhcpcd
+dosfstools
+edk2-shell
+efibootmgr
+fakeroot
+grub
+git
+iwd
+less
+linux
+linux-firmware
+memtest86+
+memtest86+-efi
+mkinitcpio
+mkinitcpio-archiso
+mkinitcpio-nfs-utils
+nano
+networkmanager
+sudo
+syslinux
+yay
+zsh
+
+### DESKTOP - BAIKAL ###
+arduino-ide
+cups
+dolphin
+filezilla
+firefox
+flameshot
+freerdp
+gthumb
+kde-applications
+kicad
+kicad-library
+kicad-library-3d
+konsole
+libreoffice-still
+libtransmission
+os-prober
+nodejs-lts-iron
+npm
+plasma
+power-profiles-daemon
+print-manager
+pycharm-community-edition
+python
+python-jsonschema
+python-pip
+python-yaml
+remmina
+sddm
+system-config-printer
+telegram-desktop
+thunderbird
+transmission-gtk
+virtualbox
+visual-studio-code
+wayland
+zed
+
+### INSTALLER ###
+calamares-git
+# calamares deps, also depends on python, python-jsonschema, python-yaml from DESKTOP packages
+boost-libs
+ckbcomp
+hwinfo
+kconfig
+kcoreaddons
+ki18n
+kiconthemes
+kpmcore
+libpwquality
+nbd
+polkit-qt6
+qt6-svg
+rsync
+solid
+squashfs-tools
+yaml-cpp
+
+### VIDEO DRIVERS ###
+# VMWare Open Source Tools
+open-vm-tools
+
+# MESA Drivers
+mesa
+
+# Vulkan Support Packages
+vulkan-icd-loader
+vulkan-mesa-layers
+vulkan-swrast
+
+# NVIDIA Proprietary Drivers
+nvidia-utils
+
+# DX12 to Vulkan translation layer
+vkd3d
+
+# Vulkan Intel Drivers
+vulkan-intel
+
+# Vulkan AMD Drivers
+amdvlk
+vulkan-radeon
+
+### APPLE MACs Broadcom Wi-Fi Driver ###
+dkms
+linux-headers
+broadcom-wl-dkms
