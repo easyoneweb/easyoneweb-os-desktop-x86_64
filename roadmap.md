@@ -17,8 +17,8 @@
 - [X] Make bootloader work on UEFI version
 - [X] Calamares branding
 - [X] Calamares: GUI and CLI versions (CLI maybe not needed)
-- [ ] Test installer, that's BETA 2!
-- [ ] Add user easy, with password easy, with wheels group
+- [X] Test installer, that's BETA 2!
+- [X] Add user easy, with password easy, with wheels group
 
 ### Next steps...
 Login screen (SDDM)? Plasma? Test all software from Desktop Repo and Apple Repo for availability? Custom theme for Plasma? Custom dock panel config (try from this mac)? Encrypt disk? Easy-Dashboard Electron app? Cage for kiosk like interface? User has access only to Easy-Dashboard app?
